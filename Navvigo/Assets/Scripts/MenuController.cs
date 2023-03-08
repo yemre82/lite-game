@@ -38,6 +38,7 @@ public class MenuController : MonoBehaviour
             loginScreen.SetActive(true);
         }
         
+        
     }
 
     public void DoneButtonInLoginScreen()
